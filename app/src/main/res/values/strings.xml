@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Water Tracker</string>
+    <string name="_slash">/</string>
+    <string name="unit">ml</string>
+    <string name="_200_ml">200 ml</string>
+    <string name="daily_drink_target">Daily Drink Target</string>
+</resources>
